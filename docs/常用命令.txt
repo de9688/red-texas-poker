@@ -1,0 +1,5 @@
+ps -ef|grep **     查看当前的详细信息
+cat ** 查看文档
+
+
+mkdir  -p /mnt/logs/ {aofomaha,aofroom,aofShortCar,aofShortCard,calculator,consumer,cowboy,link,login,message,mongodb,mtt,napi,omaha,pay,res,room,short-card,texas,upload,yunying,yunying-job}
